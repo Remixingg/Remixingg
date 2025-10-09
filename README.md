@@ -36,6 +36,7 @@ Here are some of the key projects I've worked on.
 | **NexLoad - Campus Build Cache** | A systems solution using Nginx and Nexus to reduce Android Studio build times from up to 1 hour to <1 minute. | `[Private Organizational Project - Case Study on LinkedIn]`                                                                            |
 | **Opname Automation - Asset Audit** | A full-stack feature that slashed asset audit times from weeks to minutes for 4,000+ lab assets.          | `[Private Organizational Project - Case Study on LinkedIn]`                                                                           |
 | **BlueTrack - Bluetooth Attendance** | An IoT-based attendance system using ESP32 beacons to replace unreliable Wi-Fi.                           | `[Source Code on GitHub]` https://github.com/L0ckedkey/BlueTrack-Flask<br> `[Demo on LinkedIn]`                                                                    |
+| **RangChecker - Room Availability Line Bot** | A Flask LINE chatbot automating real-time room checks via a private API.                           | `[Source Code on GitHub]` https://github.com/Remixingg/RangChecker<br>                                                                    |
 
 ---
 
